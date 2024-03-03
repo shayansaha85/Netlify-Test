@@ -1,2 +1,3 @@
 gunicorn
 flask
+Frozen_Flask
